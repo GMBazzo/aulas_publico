@@ -1,0 +1,5 @@
+- Nao entendi o porque da classe agenda (nao cheguei a usar, devo ter feito errado)
+
+- Nao sei porque nao estao puxando os meus gets dentro das classes
+
+- Deu um erro no git, ver o que pode ser 
